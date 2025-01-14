@@ -1,2 +1,2 @@
-# Mern_ass1
-Tasks 
+# Mern_Task1
+HTML and CSS Assignments 
